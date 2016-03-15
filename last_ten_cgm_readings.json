@@ -1,5 +1,47 @@
 [
   {
+    "direction": "FortyFiveUp", 
+    "noise": 1, 
+    "dateString": "03/15/2016 21:58:17 p.m.", 
+    "sgv": 220, 
+    "date": 1458079097833, 
+    "unfiltered": 221216, 
+    "rssi": 100, 
+    "device": "xDrip-BluetoothWixel", 
+    "filtered": 221216, 
+    "_id": "56e8857d940a4faae15fd1ed", 
+    "type": "sgv", 
+    "glucose": 220
+  }, 
+  {
+    "direction": "FortyFiveUp", 
+    "noise": 1, 
+    "dateString": "03/15/2016 21:53:17 p.m.", 
+    "sgv": 214, 
+    "date": 1458078797824, 
+    "unfiltered": 217152, 
+    "rssi": 100, 
+    "device": "xDrip-BluetoothWixel", 
+    "filtered": 217152, 
+    "_id": "56e88450940a4faae15fd1e6", 
+    "type": "sgv", 
+    "glucose": 214
+  }, 
+  {
+    "direction": "Flat", 
+    "noise": 1, 
+    "dateString": "03/15/2016 21:43:18 p.m.", 
+    "sgv": 204, 
+    "date": 1458078198331, 
+    "unfiltered": 209120, 
+    "rssi": 100, 
+    "device": "xDrip-BluetoothWixel", 
+    "filtered": 209120, 
+    "_id": "56e881f8940a4faae15fd1da", 
+    "type": "sgv", 
+    "glucose": 204
+  }, 
+  {
     "direction": "Flat", 
     "noise": 1, 
     "dateString": "03/15/2016 21:38:18 p.m.", 
@@ -88,41 +130,5 @@
     "device": "xDrip-BluetoothWixel", 
     "_id": "56e87bba940a4faae15fd1ab", 
     "type": "cal"
-  }, 
-  {
-    "mbg": 192.79474, 
-    "dateString": "03/15/2016 21:16:40 p.m.", 
-    "date": 1458076600323, 
-    "device": "xDrip-BluetoothWixel", 
-    "_id": "56e87bb9940a4faae15fd1aa", 
-    "type": "mbg"
-  }, 
-  {
-    "direction": "FortyFiveUp", 
-    "noise": 1, 
-    "dateString": "03/15/2016 21:13:17 p.m.", 
-    "sgv": 190, 
-    "date": 1458076397677, 
-    "unfiltered": 198208, 
-    "rssi": 100, 
-    "device": "xDrip-BluetoothWixel", 
-    "filtered": 198208, 
-    "_id": "56e87aee940a4faae15fd1a7", 
-    "type": "sgv", 
-    "glucose": 190
-  }, 
-  {
-    "direction": "Flat", 
-    "noise": 1, 
-    "dateString": "03/15/2016 21:08:17 p.m.", 
-    "sgv": 184, 
-    "date": 1458076097691, 
-    "unfiltered": 194144, 
-    "rssi": 100, 
-    "device": "xDrip-BluetoothWixel", 
-    "filtered": 194144, 
-    "_id": "56e879c2940a4faae15fd1a0", 
-    "type": "sgv", 
-    "glucose": 184
   }
 ]
