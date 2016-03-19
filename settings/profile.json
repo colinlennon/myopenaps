@@ -1,1 +1,1 @@
-BG Target data is expected to be expressed in mg/dL. Found mmol/L in settings/bg_targets.json .
+{"max_iob":2,"type":"current","dia":4,"current_basal":0.4,"max_daily_basal":0.6,"max_basal":2.5,"min_bg":118,"max_bg":126,"sens":4.4}
