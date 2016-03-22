@@ -1,5 +1,47 @@
 [
   {
+    "_id": "56f1c950940a4faae16150fc",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458686286773,
+    "dateString": "03/22/2016 22:38:06 p.m.",
+    "sgv": 206,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 206368,
+    "unfiltered": 206368,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 206
+  },
+  {
+    "_id": "56f1c823940a4faae16150f5",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458685986803,
+    "dateString": "03/22/2016 22:33:06 p.m.",
+    "sgv": 208,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 207936,
+    "unfiltered": 207936,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 208
+  },
+  {
+    "_id": "56f1c6f7940a4faae16150e9",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458685686855,
+    "dateString": "03/22/2016 22:28:06 p.m.",
+    "sgv": 209,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 208448,
+    "unfiltered": 208448,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 209
+  },
+  {
     "_id": "56f1c5cb940a4faae16150e1",
     "device": "xDrip-BluetoothWixel",
     "date": 1458685386848,
@@ -96,47 +138,5 @@
     "rssi": 100,
     "noise": 1,
     "glucose": 251
-  },
-  {
-    "_id": "56f1bd98940a4faae161508a",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458683286867,
-    "dateString": "03/22/2016 21:48:06 p.m.",
-    "sgv": 256,
-    "direction": "FortyFiveUp",
-    "type": "sgv",
-    "filtered": 247232,
-    "unfiltered": 247232,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 256
-  },
-  {
-    "_id": "56f1bc6c940a4faae161507f",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458682986832,
-    "dateString": "03/22/2016 21:43:06 p.m.",
-    "sgv": 251,
-    "direction": "FortyFiveUp",
-    "type": "sgv",
-    "filtered": 242976,
-    "unfiltered": 242976,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 251
-  },
-  {
-    "_id": "56f1bb45940a4faae1615076",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458682686861,
-    "dateString": "03/22/2016 21:38:06 p.m.",
-    "sgv": 243,
-    "direction": "FortyFiveUp",
-    "type": "sgv",
-    "filtered": 236128,
-    "unfiltered": 236128,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 243
   }
 ]
