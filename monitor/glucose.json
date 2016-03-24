@@ -1,5 +1,19 @@
 [
   {
+    "_id": "56f36e02940a4faae1615c8d",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458793984804,
+    "dateString": "03/24/2016 04:33:04 a.m.",
+    "sgv": 229,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 233856,
+    "unfiltered": 233856,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 229
+  },
+  {
     "_id": "56f36cd7940a4faae1615c86",
     "device": "xDrip-BluetoothWixel",
     "date": 1458793684790,
@@ -124,19 +138,5 @@
     "rssi": 100,
     "noise": 1,
     "glucose": 222
-  },
-  {
-    "_id": "56f36249940a4faae1615c4d",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458790984834,
-    "dateString": "03/24/2016 03:43:04 a.m.",
-    "sgv": 219,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 224608,
-    "unfiltered": 224608,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 219
   }
 ]
