@@ -1,5 +1,47 @@
 [
   {
+    "_id": "56f381ee940a4faae1615d10",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458799084684,
+    "dateString": "03/24/2016 05:58:04 a.m.",
+    "sgv": 219,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 213568,
+    "unfiltered": 213568,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 219
+  },
+  {
+    "_id": "56f380c2940a4faae1615d0b",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458798784632,
+    "dateString": "03/24/2016 05:53:04 a.m.",
+    "sgv": 220,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 214304,
+    "unfiltered": 214304,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 220
+  },
+  {
+    "_id": "56f37f96940a4faae1615d04",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458798484714,
+    "dateString": "03/24/2016 05:48:04 a.m.",
+    "sgv": 221,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 215296,
+    "unfiltered": 215296,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 221
+  },
+  {
     "_id": "56f37e69940a4faae1615cfd",
     "device": "xDrip-BluetoothWixel",
     "date": 1458798184741,
@@ -96,47 +138,5 @@
     "rssi": 100,
     "noise": 1,
     "glucose": 226
-  },
-  {
-    "_id": "56f37635940a4faae1615cbe",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458796084746,
-    "dateString": "03/24/2016 05:08:04 a.m.",
-    "sgv": 226,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 219552,
-    "unfiltered": 219552,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 226
-  },
-  {
-    "_id": "56f37509940a4faae1615cb8",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458795784698,
-    "dateString": "03/24/2016 05:03:04 a.m.",
-    "sgv": 231,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 223296,
-    "unfiltered": 223296,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 231
-  },
-  {
-    "_id": "56f373df940a4faae1615cb2",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458795484666,
-    "dateString": "03/24/2016 04:58:04 a.m.",
-    "sgv": 233,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 224992,
-    "unfiltered": 224992,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 233
   }
 ]
