@@ -1,7 +1,7 @@
 {
   "low_reservoir_warn_point": 24, 
   "keypad_lock_status": 0, 
-  "maxBasal": 2.5, 
+  "maxBasal": 3.5, 
   "temp_basal": {
     "percent": 100, 
     "type": "Units/hour"
