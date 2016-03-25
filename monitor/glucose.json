@@ -1,128 +1,29 @@
-[
-  {
-    "_id": "56f572cb940a4faae1616bc1",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458926279544,
-    "dateString": "03/25/2016 17:17:59 p.m.",
-    "sgv": 210,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 206240,
-    "unfiltered": 206240,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 210
-  },
-  {
-    "_id": "56f571a2940a4faae1616bb9",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458925979559,
-    "dateString": "03/25/2016 17:12:59 p.m.",
-    "sgv": 209,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 206112,
-    "unfiltered": 206112,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 209
-  },
-  {
-    "_id": "56f5719f940a4faae1616bb8",
-    "device": "xDrip-BluetoothWixel",
-    "type": "cal",
-    "date": 1458925701048,
-    "dateString": "03/25/2016 17:08:21 p.m.",
-    "slope": 1277,
-    "intercept": 41,
-    "scale": 1
-  },
-  {
-    "_id": "56f57089940a4faae1616bae",
-    "device": "xDrip-BluetoothWixel",
-    "type": "cal",
-    "date": 1458925701048,
-    "dateString": "03/25/2016 17:08:21 p.m.",
-    "slope": 0,
-    "intercept": 0,
-    "scale": 1
-  },
-  {
-    "_id": "56f57088940a4faae1616bad",
-    "device": "xDrip-BluetoothWixel",
-    "type": "mbg",
-    "date": 1458925701048,
-    "dateString": "03/25/2016 17:08:21 p.m.",
-    "mbg": 209.01112
-  },
-  {
-    "_id": "56f57073940a4faae1616bac",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458925679541,
-    "dateString": "03/25/2016 17:07:59 p.m.",
-    "sgv": 212,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 207616,
-    "unfiltered": 207616,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 212
-  },
-  {
-    "_id": "56f56f48940a4faae1616ba4",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458925379577,
-    "dateString": "03/25/2016 17:02:59 p.m.",
-    "sgv": 210,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 206208,
-    "unfiltered": 206208,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 210
-  },
-  {
-    "_id": "56f56e1b940a4faae1616b9b",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458925079572,
-    "dateString": "03/25/2016 16:57:59 p.m.",
-    "sgv": 206,
-    "direction": "FortyFiveUp",
-    "type": "sgv",
-    "filtered": 202400,
-    "unfiltered": 202400,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 206
-  },
-  {
-    "_id": "56f56cf0940a4faae1616b93",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458924779585,
-    "dateString": "03/25/2016 16:52:59 p.m.",
-    "sgv": 200,
-    "direction": "FortyFiveUp",
-    "type": "sgv",
-    "filtered": 197856,
-    "unfiltered": 197856,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 200
-  },
-  {
-    "_id": "56f56bc3940a4faae1616b8c",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458924479575,
-    "dateString": "03/25/2016 16:47:59 p.m.",
-    "sgv": 194,
-    "direction": "FortyFiveUp",
-    "type": "sgv",
-    "filtered": 193376,
-    "unfiltered": 193376,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 194
-  }
-]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
