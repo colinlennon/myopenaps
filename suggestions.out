@@ -4195,3 +4195,6 @@ calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
 calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+{"temp":"absolute","bg":210,"tick":-1,"eventualBG":129,"snoozeBG":129,"reason":"Eventual BG 129>126, no temp, setting 0.62U/hr","duration":30,"rate":0.6}
