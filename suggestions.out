@@ -4054,3 +4054,7 @@ calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
 calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+{"temp":"absolute","bg":211,"tick":-1,"eventualBG":126,"snoozeBG":126,"reason":"Eventual BG 126>126, temp 1.3 >~ req 0.58U/hr"}
+ENACT SKIP
