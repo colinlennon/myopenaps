@@ -4172,4 +4172,8 @@ Version: subg_rfspy 0.6
   ], 
   "setFreq": 916.78, 
   "usedDefault": false
-}
+}my722://JSON/read_clock/monitor/clock.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/clock.json
+PREFLIGHT OK
