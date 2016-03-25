@@ -4193,3 +4193,5 @@ Version: subg_rfspy 0.6
 reporting monitor/pumphistory.json
 calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
