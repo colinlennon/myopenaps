@@ -5565,3 +5565,123 @@ reporting monitor/iob.json
 determine-basal://text/shell/enact/suggested.json
 reporting enact/suggested.json
 {"temp":"absolute","bg":169,"tick":"+3","eventualBG":-183,"snoozeBG":80,"reason":"Eventual BG -183<118, but Delta +3 > Exp. Delta -9.1; cancel","duration":0,"rate":0}
+my722://JSON/set_temp_basal/enact/enacted.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting enact/enacted.json
+ENACT OK
+
+Fri 25 Mar 20:15:01 GMT 2016
+mmtune: subg_rfspy status: OK
+Version: subg_rfspy 0.6
+{
+  "scanDetails": [
+    [
+      "916.500", 
+      0, 
+      -99
+    ], 
+    [
+      "916.520", 
+      0, 
+      -99
+    ], 
+    [
+      "916.540", 
+      0, 
+      -99
+    ], 
+    [
+      "916.560", 
+      0, 
+      -99
+    ], 
+    [
+      "916.580", 
+      0, 
+      -99
+    ], 
+    [
+      "916.600", 
+      0, 
+      -99
+    ], 
+    [
+      "916.620", 
+      0, 
+      -99
+    ], 
+    [
+      "916.640", 
+      0, 
+      -99
+    ], 
+    [
+      "916.660", 
+      0, 
+      -99
+    ], 
+    [
+      "916.680", 
+      0, 
+      -99
+    ], 
+    [
+      "916.700", 
+      0, 
+      -99
+    ], 
+    [
+      "916.720", 
+      0, 
+      -99
+    ], 
+    [
+      "916.740", 
+      0, 
+      -99
+    ], 
+    [
+      "916.760", 
+      0, 
+      -99
+    ], 
+    [
+      "916.780", 
+      0, 
+      -99
+    ], 
+    [
+      "916.800", 
+      0, 
+      -99
+    ], 
+    [
+      "916.820", 
+      0, 
+      -99
+    ], 
+    [
+      "916.840", 
+      0, 
+      -99
+    ], 
+    [
+      "916.860", 
+      0, 
+      -99
+    ], 
+    [
+      "916.880", 
+      0, 
+      -99
+    ], 
+    [
+      "916.900", 
+      0, 
+      -99
+    ]
+  ], 
+  "setFreq": 916.63, 
+  "usedDefault": true
+}
