@@ -1,5 +1,43 @@
 [
   {
+    "_id": "56f572cb940a4faae1616bc1",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458926279544,
+    "dateString": "03/25/2016 17:17:59 p.m.",
+    "sgv": 210,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 206240,
+    "unfiltered": 206240,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 210
+  },
+  {
+    "_id": "56f571a2940a4faae1616bb9",
+    "device": "xDrip-BluetoothWixel",
+    "date": 1458925979559,
+    "dateString": "03/25/2016 17:12:59 p.m.",
+    "sgv": 209,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 206112,
+    "unfiltered": 206112,
+    "rssi": 100,
+    "noise": 1,
+    "glucose": 209
+  },
+  {
+    "_id": "56f5719f940a4faae1616bb8",
+    "device": "xDrip-BluetoothWixel",
+    "type": "cal",
+    "date": 1458925701048,
+    "dateString": "03/25/2016 17:08:21 p.m.",
+    "slope": 1277,
+    "intercept": 41,
+    "scale": 1
+  },
+  {
     "_id": "56f57089940a4faae1616bae",
     "device": "xDrip-BluetoothWixel",
     "type": "cal",
@@ -86,47 +124,5 @@
     "rssi": 100,
     "noise": 1,
     "glucose": 194
-  },
-  {
-    "_id": "56f56a97940a4faae1616b83",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458924179576,
-    "dateString": "03/25/2016 16:42:59 p.m.",
-    "sgv": 189,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 189120,
-    "unfiltered": 189120,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 189
-  },
-  {
-    "_id": "56f5696c940a4faae1616b7b",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458923879551,
-    "dateString": "03/25/2016 16:37:59 p.m.",
-    "sgv": 185,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 185920,
-    "unfiltered": 185920,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 185
-  },
-  {
-    "_id": "56f5683f940a4faae1616b73",
-    "device": "xDrip-BluetoothWixel",
-    "date": 1458923579576,
-    "dateString": "03/25/2016 16:32:59 p.m.",
-    "sgv": 180,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 182112,
-    "unfiltered": 182112,
-    "rssi": 100,
-    "noise": 1,
-    "glucose": 180
   }
 ]
