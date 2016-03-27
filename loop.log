@@ -7165,3 +7165,31 @@ reporting monitor/clock.json
 PREFLIGHT OK
 curl://text/shell/monitor/glucose.json
 reporting monitor/glucose.json
+my722://JSON/read_clock/monitor/clock.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/clock.json
+tz://JSON/clock/monitor/clock-zoned.json
+reporting monitor/clock-zoned.json
+my722://JSON/read_battery_status/monitor/battery.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/battery.json
+my722://JSON/reservoir/monitor/reservoir.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/reservoir.json
+my722://JSON/status/monitor/status.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/status.json
+my722://JSON/read_temp_basal/monitor/temp_basal.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/temp_basal.json
+my722://JSON/iter_pump_hours/monitor/pumphistory.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/pumphistory.json
+calculate-iob://JSON/shell/monitor/iob.json
+reporting monitor/iob.json
