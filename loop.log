@@ -51802,3 +51802,5 @@ reporting monitor/clock.json
 PREFLIGHT OK
 curl://text/shell/monitor/glucose.json
 reporting monitor/glucose.json
+curl://text/shell/monitor/glucose.json
+reporting monitor/glucose.json
