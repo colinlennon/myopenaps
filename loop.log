@@ -1075,3 +1075,8 @@ reporting monitor/iob.json
 determine-basal://text/shell/enact/suggested.json
 reporting enact/suggested.json
 {"temp":"absolute","bg":146,"tick":-1,"eventualBG":0,"snoozeBG":96,"reason":"Eventual BG 0<118, no temp, setting 0.24U/hr","duration":30,"rate":0.25}
+my722://JSON/set_temp_basal/enact/enacted.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting enact/enacted.json
+ENACT OK
