@@ -10900,3 +10900,6 @@ calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
 calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+{"temp":"absolute","bg":165,"tick":"+7","eventualBG":19,"snoozeBG":87,"reason":"Eventual BG 19<118, but Delta +7 > Exp. Delta -10.4; cancel","duration":0,"rate":0}
