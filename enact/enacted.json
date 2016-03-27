@@ -1,0 +1,17 @@
+{
+  "requested": {
+    "duration": 0, 
+    "rate": 0, 
+    "temp": "absolute"
+  }, 
+  "bg": 149, 
+  "temp": "absolute", 
+  "snoozeBG": 121, 
+  "timestamp": "2016-03-27T03:20:58.239749", 
+  "rate": 0.0, 
+  "reason": "Eventual BG 121>118 but Avg. Delta -2.67 < Exp. Delta -2.5; cancel", 
+  "eventualBG": 121, 
+  "recieved": false, 
+  "duration": 0, 
+  "tick": -2
+}
