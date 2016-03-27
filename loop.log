@@ -8939,3 +8939,12 @@ calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
 calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+{"temp":"absolute","bg":169,"tick":"+6","eventualBG":-54,"snoozeBG":244,"reason":"Eventual BG -54<118, but Delta +6 > Exp. Delta -1.1; no temp to cancel"}
+ENACT SKIP
+
+
+Sun 27 Mar 16:25:03 BST 2016
+mmtune: subg_rfspy status: OK
+PREFLIGHT FAIL
