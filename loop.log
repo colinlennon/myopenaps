@@ -51804,3 +51804,4 @@ curl://text/shell/monitor/glucose.json
 reporting monitor/glucose.json
 curl://text/shell/monitor/glucose.json
 reporting monitor/glucose.json
+my722://JSON/read_clock/monitor/clock.json
