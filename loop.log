@@ -50343,3 +50343,5 @@ subg_rfspy status: OK
 Version: subg_rfspy 0.6
 reporting monitor/clock.json
 PREFLIGHT OK
+curl://text/shell/monitor/glucose.json
+reporting monitor/glucose.json
