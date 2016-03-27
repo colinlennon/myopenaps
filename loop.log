@@ -11380,3 +11380,10 @@ calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
 calculate-iob://JSON/shell/monitor/iob.json
 reporting monitor/iob.json
+determine-basal://text/shell/enact/suggested.json
+reporting enact/suggested.json
+{"temp":"absolute","bg":174,"tick":"+3","eventualBG":61,"snoozeBG":95,"reason":"Eventual BG 61<118, but Avg. Delta 3.00 > Exp. Delta -11; no temp to cancel"}
+ENACT SKIP
+ns-status://JSON/shell/monitor/upload-status.json
+No JSON object could be decoded
+
