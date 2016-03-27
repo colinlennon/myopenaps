@@ -7926,3 +7926,144 @@ reporting monitor/clock.json
 PREFLIGHT OK
 curl://text/shell/monitor/glucose.json
 reporting monitor/glucose.json
+my722://JSON/read_clock/monitor/clock.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/clock.json
+tz://JSON/clock/monitor/clock-zoned.json
+reporting monitor/clock-zoned.json
+my722://JSON/read_battery_status/monitor/battery.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/battery.json
+my722://JSON/reservoir/monitor/reservoir.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/reservoir.json
+my722://JSON/status/monitor/status.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/status.json
+my722://JSON/read_temp_basal/monitor/temp_basal.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+reporting monitor/temp_basal.json
+my722://JSON/iter_pump_hours/monitor/pumphistory.json
+subg_rfspy status: OK
+Version: subg_rfspy 0.6
+
+
+Sun 27 Mar 15:50:02 BST 2016
+mmtune: subg_rfspy status: OK
+Version: subg_rfspy 0.6
+{
+  "scanDetails": [
+    [
+      "916.500", 
+      0, 
+      -99
+    ], 
+    [
+      "916.520", 
+      0, 
+      -99
+    ], 
+    [
+      "916.540", 
+      0, 
+      -99
+    ], 
+    [
+      "916.560", 
+      0, 
+      -99
+    ], 
+    [
+      "916.580", 
+      0, 
+      -99
+    ], 
+    [
+      "916.600", 
+      0, 
+      -99
+    ], 
+    [
+      "916.620", 
+      0, 
+      -99
+    ], 
+    [
+      "916.640", 
+      0, 
+      -99
+    ], 
+    [
+      "916.660", 
+      0, 
+      -99
+    ], 
+    [
+      "916.680", 
+      0, 
+      -99
+    ], 
+    [
+      "916.700", 
+      5, 
+      -91
+    ], 
+    [
+      "916.720", 
+      5, 
+      -83
+    ], 
+    [
+      "916.740", 
+      5, 
+      -80
+    ], 
+    [
+      "916.760", 
+      5, 
+      -80
+    ], 
+    [
+      "916.780", 
+      5, 
+      -79
+    ], 
+    [
+      "916.800", 
+      5, 
+      -80
+    ], 
+    [
+      "916.820", 
+      5, 
+      -78
+    ], 
+    [
+      "916.840", 
+      5, 
+      -79
+    ], 
+    [
+      "916.860", 
+      1, 
+      -97
+    ], 
+    [
+      "916.880", 
+      0, 
+      -99
+    ], 
+    [
+      "916.900", 
+      0, 
+      -99
+    ]
+  ], 
+  "setFreq": 916.82, 
+  "usedDefault": false
+}
