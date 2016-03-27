@@ -7203,3 +7203,121 @@ subg_rfspy status: OK
 Version: subg_rfspy 0.6
 reporting enact/enacted.json
 ENACT OK
+ns-status://JSON/shell/monitor/upload-status.json
+reporting monitor/upload-status.json
+[{"pump":{"battery":{"status":"normal","voltage":1.2},"status":{"status":"normal","timestamp":"2016-03-27T14:20:39.000Z","bolusing":false,"suspended":false},"reservoir":98.7,"clock":"2016-03-27T14:20:31+00:00"},"openaps":{"suggested":{"bg":123,"temp":"absolute","snoozeBG":122,"timestamp":"2016-03-27T14:20:51.000Z","rate":0,"reason":"122 is in range. No temp required; cancel","eventualBG":122,"duration":0,"tick":"+0"},"iob":{"timestamp":"2016-03-27T14:20:47.000Z","activity":0.004811379387626262,"iob":0.06262817013923991,"bolusiob":0},"enacted":{"requested":{"duration":0,"rate":0,"temp":"absolute"},"bg":123,"temp":"absolute","snoozeBG":122,"timestamp":"2016-03-27T14:21:00.000Z","reason":"122 is in range. No temp required; cancel","rate":0,"eventualBG":122,"recieved":false,"duration":0,"tick":"+0"}},"created_at":"2016-03-27T14:21:07.058Z","_id":"56f7ec538bb3225c1b2b003d"}]
+
+Sun 27 Mar 15:25:01 BST 2016
+mmtune: subg_rfspy status: OK
+Version: subg_rfspy 0.6
+{
+  "scanDetails": [
+    [
+      "916.500", 
+      0, 
+      -99
+    ], 
+    [
+      "916.520", 
+      0, 
+      -99
+    ], 
+    [
+      "916.540", 
+      0, 
+      -99
+    ], 
+    [
+      "916.560", 
+      0, 
+      -99
+    ], 
+    [
+      "916.580", 
+      0, 
+      -99
+    ], 
+    [
+      "916.600", 
+      0, 
+      -99
+    ], 
+    [
+      "916.620", 
+      0, 
+      -99
+    ], 
+    [
+      "916.640", 
+      0, 
+      -99
+    ], 
+    [
+      "916.660", 
+      0, 
+      -99
+    ], 
+    [
+      "916.680", 
+      0, 
+      -99
+    ], 
+    [
+      "916.700", 
+      5, 
+      -70
+    ], 
+    [
+      "916.720", 
+      5, 
+      -58
+    ], 
+    [
+      "916.740", 
+      5, 
+      -56
+    ], 
+    [
+      "916.760", 
+      5, 
+      -56
+    ], 
+    [
+      "916.780", 
+      5, 
+      -56
+    ], 
+    [
+      "916.800", 
+      5, 
+      -56
+    ], 
+    [
+      "916.820", 
+      5, 
+      -56
+    ], 
+    [
+      "916.840", 
+      5, 
+      -60
+    ], 
+    [
+      "916.860", 
+      0, 
+      -99
+    ], 
+    [
+      "916.880", 
+      0, 
+      -99
+    ], 
+    [
+      "916.900", 
+      0, 
+      -99
+    ]
+  ], 
+  "setFreq": 916.82, 
+  "usedDefault": false
+}
