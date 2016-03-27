@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":156,"tick":"+0","eventualBG":127,"snoozeBG":127,"reason":"Eventual BG 127>126, temp 0.65 >~ req 0.6U/hr"}
+{"temp":"absolute","bg":156,"tick":"+0","eventualBG":131,"snoozeBG":131,"reason":"Eventual BG 131>126, temp 0.65<0.827U/hr","duration":30,"rate":0.85}
